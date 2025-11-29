@@ -1,0 +1,78 @@
+{
+    "personalInfo": {
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Main St, New York, NY 10001",
+      "summary": "Experienced software developer with 5+ years in web development."
+    },
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "startDate": "2015",
+        "endDate": "2019",
+        "gpa": "3.8"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tech Solutions Inc.",
+        "position": "Senior Developer",
+        "startDate": "2019",
+        "endDate": "Present",
+        "description": "Led development of web applications using React and Node.js.",
+        "location": "San Francisco, CA"
+      },
+      {
+        "company": "Digital Innovations",
+        "position": "Junior Developer",
+        "startDate": "2017",
+        "endDate": "2019",
+        "description": "Developed and maintained client websites.",
+        "location": "San Jose, CA"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "ug_institute": "Stanford University",
+    "pg_institute": "",
+    "phd_institute": 0,
+    "longevity_years": 5,
+    "number_of_jobs": 2,
+    "average_experience": 2.5,
+    "skillsCount": 7,
+    "achievementsCount": 2,
+    "achievements": [
+      "Employee of the Year 2021",
+      "Led team to successful project completion"
+    ],
+    "trainingsCount": 1,
+    "trainings": [
+      "Advanced React Patterns"
+    ],
+    "workshopsCount": 2,
+    "workshops": [
+      "Web Accessibility",
+      "Performance Optimization"
+    ],
+    "researchPapers": [],
+    "patents": [],
+    "books": [],
+    "is_jk": 0,
+    "projectsCount": 3,
+    "projects": [
+      "E-commerce Platform",
+      "Healthcare Portal",
+      "Mobile Banking App"
+    ],
+    "best_fit_for": "Full Stack Developer"
+  }
